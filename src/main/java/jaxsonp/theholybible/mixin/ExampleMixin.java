@@ -1,4 +1,4 @@
-package name.modid.mixin;
+package jaxsonp.theholybible.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;

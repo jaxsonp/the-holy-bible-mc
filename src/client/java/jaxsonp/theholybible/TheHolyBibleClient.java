@@ -1,4 +1,4 @@
-package name.modid;
+package jaxsonp.theholybible;
 
 import net.fabricmc.api.ClientModInitializer;
 

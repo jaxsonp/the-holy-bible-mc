@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "the-holy-bible",
+	"id": "the_holy_bible",
 	"version": "${version}",
 	"name": "The Holy Bible",
 	"description": "This is an example description! Tell everyone what your mod is about!",
@@ -12,14 +12,14 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/the-holy-bible/icon.png",
+	"icon": "assets/the_holy_bible/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"name.modid.TheHolyBible"
+			"jaxsonp.theholybible.TheHolyBible"
 		],
 		"client": [
-			"name.modid.TheHolyBibleClient"
+			"jaxsonp.theholybible.TheHolyBibleClient"
 		]
 	},
 	"mixins": [
